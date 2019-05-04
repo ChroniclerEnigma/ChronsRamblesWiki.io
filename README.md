@@ -1,2 +1,0 @@
-# ChronsRamblesWiki.io
-Hello world
